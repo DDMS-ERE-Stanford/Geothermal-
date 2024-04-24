@@ -9,5 +9,5 @@ This folder includes the construction of the LSTM-FCN algorithm for multi fractu
 This folder includes the construction of the LSTM-FCN algorithm for multi fracture detection by single stage warmback temperature data; and the well-trained algorithm (the pt file) used for a real case test.
 # static
 This folder includes the construction of the LSTM-FCN algorithm for multi fracture detection by single static temperature data; and the well-trained algorithm (the pt file) used for a real case test.
-# noise sensitivity and information combination
+# Noise sensitivity and information combination
 This folder includes the construction of LSTM-FCN algorithms for multi fracture detection by noisy single stage temperature data, and by combined temperature data from various stages, to discuss the noise sensitivity and the influence of multistage information combination.
